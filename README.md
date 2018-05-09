@@ -4,12 +4,12 @@ My study plan from May 2018 to Oct 2018!
 
 ## Time remaining（May~October）：about 150 Days
 ## My Goals：
-1、English skill（writing/listening）  ： 词汇量、听力、写作、口语
-2、Course Preview at UNSW
-  1. [Foundations of Computer Science][COMP9020]: [离散数学-陈斌（12 weeks）](https://www.coursera.org/learn/dmathgen/home/welcome)  
-  1. [Principles of Programming][COMP9021]: Python复习/学习Javascript/学习Java
-  1. [Database Systems][COMP9311]: [Learn mysql](https://www.coursera.org/learn/analytics-mysql)
-  1. [Artificial Intelligence][COMP9414]:  
+1、English skill（writing/listening）  ： 词汇量、听力、写作、口语  
+2、Course Preview at UNSW  
+ 1. [Foundations of Computer Science][COMP9020]: [离散数学-陈斌（12 weeks）](https://www.coursera.org/learn/dmathgen/home/welcome)  
+ 1. [Principles of Programming][COMP9021]: Python复习/学习Javascript/学习Java  
+ 1. [Database Systems][COMP9311]: [Learn mysql](https://www.coursera.org/learn/analytics-mysql)  
+ 1. [Artificial Intelligence][COMP9414]:  
 ## 优先级排序
   xxxxxxxxxxxxxxx
 ## 时间安排
